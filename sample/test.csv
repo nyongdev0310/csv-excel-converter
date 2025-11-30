@@ -1,0 +1,6 @@
+Name,Email,Age,Country,IsActive
+Alice,alice@example.com,30,USA,true
+Bob,bob@example.com,,Canada,false
+Charlie , charlie@example.com , 35 , South Korea , true
+David Jr.,david.jr@example.com,28,UK,true
+Eve,eve@example.com,41,USA,false
